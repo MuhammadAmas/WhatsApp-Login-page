@@ -1,41 +1,53 @@
-body{
+body {
     background-color: #cfd1d1;
 }
-.header{
-    background-color: #00a884  ;
+
+.header {
+    background-color: #00a884;
     padding: 120px;
     margin: -8px;
 
     color: white;
-    
+
 }
-.mainbody{
+
+.mainbody {
     background-color: white;
     margin: -150px 200px 100px 200px;
     height: 50em;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    ;
     border-radius: 5px;
     font-size: 24px;
     color: #41525d;
     line-height: 2.5;
 }
 
-.QR{
+.QR {
     float: right;
     margin: 50px 70px 0px 0px;
     width: 35%;
     height: 35%;
-    
+
 }
-.text{
+
+.text {
     margin: 60px 0px 0px 30px;
 }
-.mainheading{
+
+.mainheading {
     font-size: 30px;
     font: sans-serif;
 }
 
-.superheading{
-    margin-top: -80px ;
-    
+.superheading {
+    margin-top: -80px;
+
+}
+
+.tutorial {
+    background-color: #f9f9fa;
+    width: 557px;
+    height: 313px;;
+    margin: 250px 200px 100px 200px;
 }
