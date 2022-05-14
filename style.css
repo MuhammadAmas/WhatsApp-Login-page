@@ -1,5 +1,6 @@
 body {
     background-color: #cfd1d1;
+    font-family: helvetica;
 }
 
 .header {
@@ -50,4 +51,9 @@ body {
     width: 557px;
     height: 313px;;
     margin: 250px 200px 100px 200px;
+}
+.help{
+    font-size: 18px;
+    margin: 60px 0px 0px 30px;
+    color: #00a884;
 }
